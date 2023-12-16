@@ -4,10 +4,10 @@ title: cvless
 description: Jekyll theme for a beautiful online CV
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
-baseurl: ""
+url: https://magnus167.github.io/cvless
+baseurl: https://magnus167.github.io/cvless
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/Magnus167/cvless
 
 # author settings
 
